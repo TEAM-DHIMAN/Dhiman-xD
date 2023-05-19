@@ -46,11 +46,11 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
             
             
             InlineKeyboardButton(
-                text="𝐂𝐥𝐨𝐬𝐞😛", callback_data=f"close"
+                text="✰𝐂ℓσѕє✰", callback_data=f"close"
                 ),
             InlineKeyboardButton(
             
-                text="𝐒𝐮𝐩𝐩𝐨𝐫𝐭❤",
+                text="✰𝐒υρρσят✰",
                 
                 url="https://t.me/royal_chatting_world",
                 
@@ -62,9 +62,9 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
                 
                 InlineKeyboardButton(
                     
-                    text="𝐒𝐞𝐫𝐯𝐞𝐫🚀",
+                    text="✰𝐀вσυт❥𝐍σвι✰",
                     
-                    url="https://t.me/royal_official_server",
+                    url="https://t.me/ABOUT_NOBITA_XD",
                     
                     ),
                 
@@ -74,7 +74,7 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
                 
                 InlineKeyboardButton(
                     
-                    text="𝐎𝐰𝐧𝐞𝐫🏓", url="https://t.me/salaar_op"
+                    text="✰𝐒αиѕкαяι❥𝐁σу✰", url="https://t.me/salaar_op"
                     
                     ),
                 
