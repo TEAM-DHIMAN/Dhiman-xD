@@ -42,29 +42,45 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
             )
         ],
         [
+            
+            
+            
             InlineKeyboardButton(
-                text="▷",
-                callback_data=f"ADMIN Resume|{chat_id}",
-            ),
+                text="𝐂𝐥𝐨𝐬𝐞😛", callback_data=f"close"
+                ),
             InlineKeyboardButton(
-                text="II", callback_data=f"ADMIN Pause|{chat_id}"
-            ),
-            InlineKeyboardButton(
-                text="☆", callback_data=f"add_playlist {videoid}"
-            ),
-            InlineKeyboardButton(
-                text="‣‣I", callback_data=f"ADMIN Skip|{chat_id}"
-            ),
-            InlineKeyboardButton(
-                text="▢", callback_data=f"ADMIN Stop|{chat_id}"
-            ),
-        ],
-        [
-            InlineKeyboardButton(
-                text="✯ ᴄʟᴏsᴇ ✯", callback_data=f"close"
-            )
-        ],
-    ]
+            
+                text="𝐒𝐮𝐩𝐩𝐨𝐫𝐭❤",
+                
+                url="https://t.me/royal_chatting_world",
+                
+                ),
+            
+            ],
+            [
+                
+                
+                InlineKeyboardButton(
+                    
+                    text="𝐒𝐞𝐫𝐯𝐞𝐫🚀",
+                    
+                    url="https://t.me/royal_official_server",
+                    
+                    ),
+                
+                
+                
+                
+                
+                InlineKeyboardButton(
+                    
+                    text="𝐎𝐰𝐧𝐞𝐫🏓", url="https://t.me/salaar_op"
+                    
+                    ),
+                
+                ],
+        ]
+            
     return buttons
 
 
