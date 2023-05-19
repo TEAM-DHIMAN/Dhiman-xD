@@ -52,7 +52,7 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
             
                 text="✰𝐒υρρσят✰",
                 
-                url="https://t.me/royal_chatting_world",
+                url="https://t.me/Best_friends_chatting_01",
                 
                 ),
             
@@ -74,7 +74,7 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
                 
                 InlineKeyboardButton(
                     
-                    text="✰𝐒αиѕкαяι❥𝐁σу✰", url="https://t.me/salaar_op"
+                    text="✰𝐒αиѕкαяι❥𝐁σу✰", url="https://t.me/Teri_gf_mere_phan"
                     
                     ),
                 
