@@ -46,13 +46,13 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
             
             
             InlineKeyboardButton(
-                text="✰𝐂ℓσѕє✰", callback_data=f"close"
+                text="✰ 𝐂ℓσѕє ✰", callback_data=f"close"
                 ),
             InlineKeyboardButton(
             
-                text="✰𝐒υρρσят✰",
+                text="✰ 𝐒υρρσят ✰",
                 
-                url="https://t.me/Best_friends_chatting_01",
+                url="https://t.me/W_O_D_X",
                 
                 ),
             
@@ -62,9 +62,9 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
                 
                 InlineKeyboardButton(
                     
-                    text="✰𝐀вσυт❥𝐍σвι✰",
+                    text="✰ 𝐅єєℓιиgѕ ✰",
                     
-                    url="https://t.me/ABOUT_NOBITA_XD",
+                    url="https://t.me/Soul_x6",
                     
                     ),
                 
@@ -74,7 +74,7 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
                 
                 InlineKeyboardButton(
                     
-                    text="✰𝐒αиѕкαяι❥𝐁σу✰", url="https://t.me/Teri_gf_mere_phan"
+                    text="✰ 𝐎ωиєя ✰", url="https://t.me/i_dxlvir"
                     
                     ),
                 
